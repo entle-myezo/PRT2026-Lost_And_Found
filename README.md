@@ -1,6 +1,6 @@
 # CPUT Lost & Found System
 
-## 📌 Project Overview
+##  Project Overview
 This project is part of the ICT Applications Development module (2026) at CPUT.
 
 The system aims to help students and staff report and recover lost items across all CPUT campuses through a centralized digital platform.
